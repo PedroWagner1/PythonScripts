@@ -1,5 +1,6 @@
 # Crie um script que:
 
+
 #   Receba um diretório base (hardcoded ou via sys.argv)
 #   Liste apenas arquivos (ignore diretórios)
 
